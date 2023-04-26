@@ -5,6 +5,7 @@ app = Flask(__name__)
 
 #create list of items to sell
 PRODUCTS = [
+    
     {
       'id': 1, 
       'item': 'Stickers',
